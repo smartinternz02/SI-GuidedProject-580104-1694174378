@@ -1,6 +1,3 @@
-## ChatConnect a LightWeight Realtime Chat Application
+### My Weekly Projects of Smartbrdige Android App Development
 
-### Developed using Java, XML, Layout Engine and Gradle Plugins in Android Studion.
-
-
-### TEAM MEMBERS: Charan Raghavendra, Surya M.U, Jaswant Gogineni, Chiranjeevi
+## Includes Dice Application, Login using Firebase Application, and Movie Recommendation System.
